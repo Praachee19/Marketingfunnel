@@ -1,2 +1,2 @@
-# Maketingfunnel
-Maketing analytics dashboard
+# Marketingfunnel
+Marketing analytics dashboard
